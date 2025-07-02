@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+flask
+seaborn
+matplotlib
+joblib
+json
+request
+jsonify
+path
+time
